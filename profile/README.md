@@ -1,11 +1,8 @@
 ## Welcome to Chiissu
 Introducing Chiissu 🚀, never be left out because Chiissu got you covered.<br>
-Chat with people across multiple platforms 👋 including WhatsApp, Discord, Telegram, (iMessage), Guilded, Slack, SMS, and way more.<br>
-Share your fondest and best memories or create content and become a viral memer on Chiissu social, the built-in social media.
-
-And the best part? It's free.
-
-With intuitive and easy to use UI focussing on both looks and a great user experience.
+Chiissu is a brand new and intuitive social media platform 🌍, bye bye mega-corporation YouTube and X (formerly Twitter) and actually post what matters with an algorithm pushing actually passionate people 🥳.
+And that isn't it! You can also make money on Chiissu kickstarting your career, stop relying on a corrupt platform that can take you down with one snap of a finger - you won't have to worry about that with us.
+We are a small start-up who aren't going to go private and enshittify this beautiful new space 🔥.
 
 ### Coming 2026
 What are you waiting for? Put it in your calendar!
